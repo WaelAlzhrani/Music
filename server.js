@@ -1,6 +1,5 @@
 const http = require('http');
 const express = require('express');
-const cp = require('child_process');
 const cmd = require('node-cmd');
 const app = express();
 app.get("/", (request, response) => {
