@@ -1,7 +1,7 @@
-token = 
-prefix = 
-owner = 
-songinstatus = true
+token = NjA2MjUzNzQ1MDA5MDY2MDA0.XUIX0A.KmoTiGQUFwJNdQYY5x02JCehvc4
+prefix = D
+owner = 602877228736577556
+songinstatus = false
 stayinchannel = true
 updatealerts = false
 eval = false
