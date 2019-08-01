@@ -1,5 +1,5 @@
 token = NjA2MjUzNzQ1MDA5MDY2MDA0.XUIX0A.KmoTiGQUFwJNdQYY5x02JCehvc4
-prefix = 'D'
+prefix = D
 owner = 538083629461536789
 songinstatus = false
 stayinchannel = true

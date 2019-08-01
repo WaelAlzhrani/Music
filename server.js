@@ -1,5 +1,6 @@
 const http = require('http');
 const express = require('express');
+const cp = require('child_process');
 const cmd = require('node-cmd');
 const app = express();
 app.get("/", (request, response) => {
@@ -10,4 +11,4 @@ setInterval(() => {
     http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000);
 
-cmd.run('java jmusic.jar');
+cmd.run('java -Dnogui=true -jar jmusic.jar');
