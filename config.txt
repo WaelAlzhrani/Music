@@ -1,6 +1,5 @@
-token = 
-prefix = 
-owner = 
-stayinchannel = true
-updatealerts = true
-eval = false
+token=
+prefix=
+owner=
+stayinchannel=true
+updatealerts=false
