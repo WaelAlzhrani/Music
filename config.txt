@@ -1,5 +1,5 @@
-token=
-prefix=
-owner=
+token= NjQyNDg2NTcwMTcxMTA1Mjgz.XcXoqQ.bzONhbDBPvfjVPfOIMJiPdPiJaU
+prefix= "@"
+owner= 335645388323160064
 stayinchannel=true
 updatealerts=false
