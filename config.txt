@@ -1,5 +1,5 @@
-token= 
-prefix= "@"
-owner= 335645388323160064
+token=
+prefix=
+owner=
 stayinchannel=true
 updatealerts=false
