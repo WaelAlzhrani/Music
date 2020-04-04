@@ -1,4 +1,4 @@
-token= NjQyNDg2NTcwMTcxMTA1Mjgz.XcXoqQ.bzONhbDBPvfjVPfOIMJiPdPiJaU
+token= 
 prefix= "@"
 owner= 335645388323160064
 stayinchannel=true
