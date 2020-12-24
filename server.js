@@ -10,4 +10,4 @@ setInterval(() => {
 }, 4 * 60 * 1000);
 
 cmd.run("java -Dnogui=true -jar jmusic.jar");
-//الرابط : https://اسم البروجكت.glitch.me
+//الرابط : https://music-nt1.glitch.me

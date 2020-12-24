@@ -1,5 +1,5 @@
-token=
-prefix=
-owner=
+token=NzMwODYyODQyMjE1MTM3Mjky.XwdrEA.iVuoDrQ-uZuv86nhxvbDYj5JMJk
+prefix=1
+owner=698830615671210024
 stayinchannel=true
 updatealerts=false
